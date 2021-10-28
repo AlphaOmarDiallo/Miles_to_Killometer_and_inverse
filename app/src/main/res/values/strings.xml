@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Miles to Killometer and inverse</string>
+    <string name="miles">Miles</string>
+    <string name="textview">TextView</string>
+    <string name="convert_miles_to_km">Convert Miles to Km</string>
+    <string name="convert_km_to_miles">Convert KM to MILES</string>
+</resources>
